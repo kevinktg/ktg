@@ -1,0 +1,3 @@
+# Ignore local MCP artifacts
+.mcp/
+mcp_env/
